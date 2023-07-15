@@ -8,8 +8,8 @@
       "oldPrice": 70.0,
       "rating": 5,
       "isTopRated": true,
-      "smallPreview": "https://george-fx.github.io/nuton/background/03.png",
-      "bigPreview": "https://george-fx.github.io/nuton/background/03.png"
+      "smallPreview": "https://george-fx.github.io/nuton/courses/01-small.png",
+      "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png"
     },
     {
       "id": 2,
@@ -19,8 +19,8 @@
       "oldPrice": 70.0,
       "rating": 5,
       "isTopRated": true,
-      "smallPreview": "https://george-fx.github.io/nuton/background/03.png",
-      "bigPreview": "https://george-fx.github.io/nuton/background/03.png"
+      "smallPreview": "https://george-fx.github.io/nuton/courses/01-small.png",
+      "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png"
     },
     {
       "id": 3,
@@ -30,8 +30,8 @@
       "oldPrice": 70.0,
       "rating": 5,
       "isTopRated": true,
-      "smallPreview": "https://george-fx.github.io/nuton/background/03.png",
-      "bigPreview": "https://george-fx.github.io/nuton/background/03.png"
+      "smallPreview": "https://george-fx.github.io/nuton/courses/01-small.png",
+      "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png"
     }
   ]
 }

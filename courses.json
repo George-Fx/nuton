@@ -1,0 +1,30 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Learning Python for Data Analysis and Visualization",
+      "duration": "5h 30m",
+      "price": 35.0,
+      "oldPrice": 70.0,
+      "rating": 5,
+      "smallPreview": "https://george-fx.github.io/nuton/background/03.png",
+      "bigPreview": "https://george-fx.github.io/nuton/background/03.png"
+    },
+    {
+      "id": 2,
+      "name": "Learning Python for Data Analysis and Visualization",
+      "duration": "5h 30m",
+      "price": 35.0,
+      "oldPrice": 70.0,
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Learning Python for Data Analysis and Visualization",
+      "duration": "5h 30m",
+      "price": 35.0,
+      "oldPrice": 70.0,
+      "rating": 5
+    }
+  ]
+}

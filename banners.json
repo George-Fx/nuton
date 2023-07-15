@@ -8,7 +8,7 @@
             "duration": "5h 30m",
             "price": 35.0,
             "oldPrice": 70.0,
-            "background": "https://george-fx.github.io/beloni/banners/01.png"
+            "background": "https://george-fx.github.io/nuton/background/03.png"
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "duration": "5h 30m",
             "price": 35.0,
             "oldPrice": 70.0,
-            "background": "https://george-fx.github.io/beloni/banners/01.png"
+            "background": "https://george-fx.github.io/nuton/background/03.png"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "duration": "5h 30m",
             "price": 35.0,
             "oldPrice": 70.0,
-            "background": "https://george-fx.github.io/beloni/banners/01.png"
+            "background": "https://george-fx.github.io/nuton/background/03.png"
         }
     ]
 }

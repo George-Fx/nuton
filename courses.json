@@ -39,6 +39,32 @@
       "category": "Design UI/UX",
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
+    },
+    {
+      "id": 4,
+      "name": "Write to Ignite - Master the Art of Sales Copy",
+      "duration": "5h 30m",
+      "price": 49.0,
+      "rating": 5,
+      "isTopRated": true,
+      "popular": true,
+      "author": "Kirsten Mitchell",
+      "category": "technology",
+      "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
+      "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
+    },
+    {
+      "id": 5,
+      "name": "Copywriting — The Psychology Of Your Irresistible Offer",
+      "duration": "5h 30m",
+      "price": 49.0,
+      "rating": 5,
+      "isTopRated": true,
+      "popular": true,
+      "author": "Kirsten Mitchell",
+      "category": "digitalMarketing",
+      "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
+      "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
     }
   ]
 }

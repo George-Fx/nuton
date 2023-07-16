@@ -10,6 +10,7 @@
       "popular": true,
       "author": "London Universiry",
       "category": "technology",
+      "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/01-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png"
     },
@@ -24,6 +25,7 @@
       "popular": true,
       "author": "London Universiry",
       "category": "Business",
+      "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/02-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/02-big.png"
     },
@@ -37,6 +39,7 @@
       "popular": true,
       "author": "London Universiry",
       "category": "Design UI/UX",
+      "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
     },
@@ -50,6 +53,7 @@
       "popular": true,
       "author": "Kirsten Mitchell",
       "category": "technology",
+      "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
     },
@@ -63,6 +67,7 @@
       "popular": true,
       "author": "Kirsten Mitchell",
       "category": "digitalMarketing",
+      "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
     }

@@ -12,7 +12,8 @@
       "category": "technology",
       "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/01-small.png",
-      "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png"
+      "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png",
+      "3D": "https://george-fx.github.io/nuton/courses/01-3d.png"
     },
     {
       "id": 2,
@@ -27,7 +28,8 @@
       "category": "Business",
       "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/02-small.png",
-      "bigPreview": "https://george-fx.github.io/nuton/courses/02-big.png"
+      "bigPreview": "https://george-fx.github.io/nuton/courses/02-big.png",
+      "3D": "https://george-fx.github.io/nuton/courses/02-3d.png"
     },
     {
       "id": 3,
@@ -41,7 +43,8 @@
       "category": "Design UI/UX",
       "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
-      "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
+      "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png",
+      "3D": "https://george-fx.github.io/nuton/courses/03-3d.png"
     },
     {
       "id": 4,
@@ -55,7 +58,8 @@
       "category": "technology",
       "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
-      "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
+      "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png",
+      "3D": "https://george-fx.github.io/nuton/courses/01-3d.png"
     },
     {
       "id": 5,
@@ -69,7 +73,8 @@
       "category": "digitalMarketing",
       "isNew": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
-      "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
+      "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png",
+      "3D": "https://george-fx.github.io/nuton/courses/02-3d.png"
     }
   ]
 }

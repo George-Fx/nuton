@@ -8,6 +8,7 @@
       "rating": 5,
       "isTopRated": true,
       "popular": true,
+      "author": "London Universiry",
       "smallPreview": "https://george-fx.github.io/nuton/courses/01-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png"
     },
@@ -20,6 +21,7 @@
       "rating": 5,
       "isTopRated": true,
       "popular": true,
+      "author": "London Universiry",
       "smallPreview": "https://george-fx.github.io/nuton/courses/02-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/02-big.png"
     },
@@ -31,6 +33,7 @@
       "rating": 5,
       "isTopRated": true,
       "popular": true,
+      "author": "London Universiry",
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png"
     }

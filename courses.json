@@ -12,7 +12,7 @@
       "popular": true,
       "isNew": true,
       "isSpecial": true,
-      "completed": true,
+      "status": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/01-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/01-3d.png"
@@ -30,7 +30,7 @@
       "popular": true,
       "isNew": true,
       "isSpecial": true,
-      "completed": false,
+      "status": false,
       "smallPreview": "https://george-fx.github.io/nuton/courses/02-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/02-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/02-3d.png"
@@ -47,7 +47,7 @@
       "popular": true,
       "isNew": true,
       "isSpecial": true,
-      "completed": true,
+      "status": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/03-3d.png"
@@ -64,7 +64,7 @@
       "popular": true,
       "isNew": true,
       "isSpecial": true,
-      "completed": false,
+      "status": false,
       "smallPreview": "https://george-fx.github.io/nuton/courses/04-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/04-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/04-3d.png"
@@ -81,7 +81,7 @@
       "popular": true,
       "isNew": true,
       "isSpecial": true,
-      "completed": true,
+      "status": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/05-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/05-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/05-3d.png"

@@ -15,7 +15,8 @@
       "status": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/01-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png",
-      "threeDPreview": "https://george-fx.github.io/nuton/courses/01-3d.png"
+      "threeDPreview": "https://george-fx.github.io/nuton/courses/01-3d.png",
+      "video": "https://george-fx.github.io/nuton/video.mp4"
     },
     {
       "id": 2,
@@ -33,7 +34,8 @@
       "status": false,
       "smallPreview": "https://george-fx.github.io/nuton/courses/02-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/02-big.png",
-      "threeDPreview": "https://george-fx.github.io/nuton/courses/02-3d.png"
+      "threeDPreview": "https://george-fx.github.io/nuton/courses/02-3d.png",
+      "video": "https://george-fx.github.io/nuton/video.mp4"
     },
     {
       "id": 3,
@@ -50,7 +52,8 @@
       "status": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/03-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png",
-      "threeDPreview": "https://george-fx.github.io/nuton/courses/03-3d.png"
+      "threeDPreview": "https://george-fx.github.io/nuton/courses/03-3d.png",
+      "video": "https://george-fx.github.io/nuton/video.mp4"
     },
     {
       "id": 4,
@@ -67,7 +70,8 @@
       "status": false,
       "smallPreview": "https://george-fx.github.io/nuton/courses/04-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/04-big.png",
-      "threeDPreview": "https://george-fx.github.io/nuton/courses/04-3d.png"
+      "threeDPreview": "https://george-fx.github.io/nuton/courses/04-3d.png",
+      "video": "https://george-fx.github.io/nuton/video.mp4"
     },
     {
       "id": 5,
@@ -84,7 +88,8 @@
       "status": true,
       "smallPreview": "https://george-fx.github.io/nuton/courses/05-small.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/05-big.png",
-      "threeDPreview": "https://george-fx.github.io/nuton/courses/05-3d.png"
+      "threeDPreview": "https://george-fx.github.io/nuton/courses/05-3d.png",
+      "video": "https://george-fx.github.io/nuton/video.mp4"
     }
   ]
 }

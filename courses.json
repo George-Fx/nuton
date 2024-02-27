@@ -2,7 +2,7 @@
   "courses": [
     {
       "id": 1,
-      "name": "Learning Python for Data\nAnalysis and Visualization",
+      "name": "1Learning Python for Data\nAnalysis and Visualization",
       "duration": "5h 30m",
       "price": 35.0,
       "rating": 5,

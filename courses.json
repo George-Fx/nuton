@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Learning Python for Data\nAnalysis and Visualization",
+      "shortName": "Learning Python for Data",
       "duration": "5h 30m",
       "price": 35.0,
       "rating": 5,
@@ -21,6 +22,7 @@
     {
       "id": 2,
       "name": "Learn Photoshop, Web Design &\nProfitable Freelance 2022",
+      "shortName": "Learn Photoshop & Web Design",
       "duration": "5h 30m",
       "price": 35.0,
       "oldPrice": 70.0,
@@ -39,7 +41,8 @@
     },
     {
       "id": 3,
-      "name": "Learning Python for Data Analysis and Visualization",
+      "name": "Complete Wordpress Training For Beginners",
+      "shortName": "Wordpress For Beginner",
       "duration": "5h 30m",
       "price": 35.0,
       "rating": 5,
@@ -57,7 +60,8 @@
     },
     {
       "id": 4,
-      "name": "Write to Ignite - Master the Art of Sales Copy",
+      "name": "The Ultimate Guide to Strategic Marketing",
+      "shortName": "Strategic Marketing",
       "duration": "5h 30m",
       "price": 49.0,
       "rating": 5,
@@ -75,7 +79,8 @@
     },
     {
       "id": 5,
-      "name": "Copywriting — The Psychology Of Your Irresistible Offer",
+      "name": "Home Business: The Complete CPA Marketing Course",
+      "shortName": "Complete CPA Marketing Course",
       "duration": "5h 30m",
       "price": 49.0,
       "rating": 5,

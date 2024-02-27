@@ -1,6 +1,6 @@
 {
     "typescript.tsdk": "node_modules/typescript/lib",
-    "workbench.colorTheme": "Atom Material Theme",
+    "workbench.colorTheme": "Community Material Theme High Contrast",
     "workbench.iconTheme": "material-icon-theme",
     "editor.inlineSuggest.enabled": true,
     "editor.formatOnSave": true,

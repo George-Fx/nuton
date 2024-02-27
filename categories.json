@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "category": "Technology"
+        },
+        {
+            "id": 2,
+            "category": "Business"
+        },
+        {
+            "id": 3,
+            "category": "Design UI/UX"
+        },
+        {
+            "id": 4,
+            "category": "Digital Marketing"
+        },
+        {
+            "id": 5,
+            "category": "Computer games"
+        },
+        {
+            "id": 6,
+            "category": "Analytics"
+        }
+    ]
+}

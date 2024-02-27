@@ -2,32 +2,32 @@
     "categories": [
         {
             "id": 1,
-            "title": "Technology",
+            "name": "Technology",
             "image": "https://george-fx.github.io/nuton/category_bg/01.png"
         },
         {
             "id": 2,
-            "title": "Business",
+            "name": "Business",
             "image": "https://george-fx.github.io/nuton/banner.png"
         },
         {
             "id": 3,
-            "title": "Design UI/UX",
+            "name": "Design UI/UX",
             "image": "https://george-fx.github.io/nuton/banner.png"
         },
         {
             "id": 4,
-            "title": "Digital Marketing",
+            "name": "Digital Marketing",
             "image": "https://george-fx.github.io/nuton/banner.png"
         },
         {
             "id": 5,
-            "title": "Computer games",
+            "name": "Computer games",
             "image": "https://george-fx.github.io/nuton/banner.png"
         },
         {
             "id": 6,
-            "title": "Analytics",
+            "name": "Analytics",
             "image": "https://george-fx.github.io/nuton/banner.png"
         }
     ]

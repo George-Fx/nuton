@@ -2,33 +2,15 @@
     "banners": [
         {
             "id": 1,
-            "discount": 50,
-            "titleLine1": "Complete Wordpress",
-            "titleLine2": "Training For Beginners",
-            "duration": "5h 30m",
-            "price": 35.0,
-            "oldPrice": 70.0,
-            "background": "https://george-fx.github.io/nuton/background/03.png"
+            "banner": "https://george-fx.github.io/nuton/banner.png"
         },
         {
             "id": 2,
-            "discount": 50,
-            "titleLine1": "Complete Wordpress",
-            "titleLine2": "Training For Beginners",
-            "duration": "5h 30m",
-            "price": 35.0,
-            "oldPrice": 70.0,
-            "background": "https://george-fx.github.io/nuton/background/03.png"
+            "banner": "https://george-fx.github.io/nuton/banner.png"
         },
         {
             "id": 3,
-            "discount": 50,
-            "titleLine1": "Complete Wordpress",
-            "titleLine2": "Training For Beginners",
-            "duration": "5h 30m",
-            "price": 35.0,
-            "oldPrice": 70.0,
-            "background": "https://george-fx.github.io/nuton/background/03.png"
+            "banner": "https://george-fx.github.io/nuton/banner.png"
         }
     ]
 }

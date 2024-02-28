@@ -18,7 +18,8 @@
       "innerPreview": "https://george-fx.github.io/nuton/inner_image.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/01-3d.png",
-      "video": "https://george-fx.github.io/nuton/video.mp4"
+      "video": "https://george-fx.github.io/nuton/video.mp4",
+      "description": "Welcome to Udemy's first, No Coding Required, VR development course, using VRTK 4. Build once and deploy to both Oculus."
     },
     {
       "id": 2,

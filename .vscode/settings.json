@@ -19,7 +19,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "typescript.tsdk": "node_modules/typescript/lib",
-  "workbench.colorTheme": "Material Theme High Contrast",
+  "workbench.colorTheme": "Community Material Theme High Contrast",
   "workbench.iconTheme": "material-icon-theme",
   "editor.inlineSuggest.enabled": true,
   "editor.formatOnSave": true,

@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Learning Python for Data\nAnalysis and Visualization",
+      "position": "Professional Software Developer and Educator",
       "shortName": "Learning Python for Data",
       "duration": "5h 30m",
       "price": 35.0,
@@ -24,6 +25,7 @@
     {
       "id": 2,
       "name": "Learn Photoshop, Web Design &\nProfitable Freelance 2022",
+      "position": "Professional Software Developer and Educator",
       "shortName": "Learn Photoshop & Web Design",
       "duration": "5h 30m",
       "price": 35.0,
@@ -46,6 +48,7 @@
     {
       "id": 3,
       "name": "Complete Wordpress Training\nFor Beginners",
+      "position": "Professional Software Developer and Educator",
       "shortName": "Wordpress For Beginner",
       "duration": "5h 30m",
       "price": 35.0,
@@ -67,6 +70,7 @@
     {
       "id": 4,
       "name": "The Ultimate Guide to\nStrategic Marketing",
+      "position": "Professional Software Developer and Educator",
       "shortName": "Strategic Marketing",
       "duration": "5h 30m",
       "price": 49.0,
@@ -88,6 +92,7 @@
     {
       "id": 5,
       "name": "Home Business: The Complete\nCPA Marketing Course",
+      "position": "Professional Software Developer and Educator",
       "shortName": "Complete CPA Marketing Course",
       "duration": "5h 30m",
       "price": 49.0,

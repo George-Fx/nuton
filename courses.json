@@ -29,7 +29,7 @@
       "price": 35.0,
       "oldPrice": 70.0,
       "rating": 5,
-      "author": "London Universiry",
+      "author": "Jasmine Rodriguez",
       "category": "Business",
       "isTopRated": true,
       "popular": true,
@@ -40,7 +40,8 @@
       "innerPreview": "https://george-fx.github.io/nuton/inner_image.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/02-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/02-3d.png",
-      "video": "https://george-fx.github.io/nuton/video.mp4"
+      "video": "https://george-fx.github.io/nuton/video.mp4",
+      "description": "Welcome to Udemy's first, No Coding Required, VR development course, using VRTK 4. Build once and deploy to both Oculus."
     },
     {
       "id": 3,
@@ -49,7 +50,7 @@
       "duration": "5h 30m",
       "price": 35.0,
       "rating": 5,
-      "author": "London Universiry",
+      "author": "Aidan Foster",
       "category": "Design UI/UX",
       "isTopRated": true,
       "popular": true,
@@ -60,7 +61,8 @@
       "innerPreview": "https://george-fx.github.io/nuton/inner_image.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/03-3d.png",
-      "video": "https://george-fx.github.io/nuton/video.mp4"
+      "video": "https://george-fx.github.io/nuton/video.mp4",
+      "description": "Welcome to Udemy's first, No Coding Required, VR development course, using VRTK 4. Build once and deploy to both Oculus."
     },
     {
       "id": 4,
@@ -69,7 +71,7 @@
       "duration": "5h 30m",
       "price": 49.0,
       "rating": 5,
-      "author": "Kirsten Mitchell",
+      "author": "Savannah Campbell",
       "category": "technology",
       "isTopRated": true,
       "popular": true,
@@ -80,7 +82,8 @@
       "innerPreview": "https://george-fx.github.io/nuton/inner_image.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/04-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/04-3d.png",
-      "video": "https://george-fx.github.io/nuton/video.mp4"
+      "video": "https://george-fx.github.io/nuton/video.mp4",
+      "description": "Welcome to Udemy's first, No Coding Required, VR development course, using VRTK 4. Build once and deploy to both Oculus."
     },
     {
       "id": 5,
@@ -89,7 +92,7 @@
       "duration": "5h 30m",
       "price": 49.0,
       "rating": 5,
-      "author": "Kirsten Mitchell",
+      "author": "Xavier Bennett",
       "category": "digitalMarketing",
       "isTopRated": true,
       "popular": true,
@@ -100,7 +103,8 @@
       "innerPreview": "https://george-fx.github.io/nuton/inner_image.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/05-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/05-3d.png",
-      "video": "https://george-fx.github.io/nuton/video.mp4"
+      "video": "https://george-fx.github.io/nuton/video.mp4",
+      "description": "Welcome to Udemy's first, No Coding Required, VR development course, using VRTK 4. Build once and deploy to both Oculus."
     }
   ]
 }

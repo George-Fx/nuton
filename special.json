@@ -2,11 +2,11 @@
   "specialOffers": [
       {
           "id": 1,
-          "banner": "https://george-fx.github.io/nuton/special_01.png"
+          "image": "https://george-fx.github.io/nuton/special_01.png"
       },
       {
           "id": 2,
-          "banner": "https://george-fx.github.io/nuton/special_02.png"
+          "image": "https://george-fx.github.io/nuton/special_02.png"
       }
   ]
 }

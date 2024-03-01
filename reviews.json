@@ -1,0 +1,17 @@
+{
+  "reviews": [
+    {
+        "id": 1,
+        "photo": "",
+        "banner": "https://george-fx.github.io/nuton/banner.png"
+    },
+    {
+        "id": 2,
+        "banner": "https://george-fx.github.io/nuton/banner.png"
+    },
+    {
+        "id": 3,
+        "banner": "https://george-fx.github.io/nuton/banner.png"
+    }
+  ]
+}

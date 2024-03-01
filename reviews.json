@@ -2,16 +2,21 @@
   "reviews": [
     {
         "id": 1,
-        "photo": "",
-        "banner": "https://george-fx.github.io/nuton/banner.png"
+        "photo": "https://george-fx.github.io/users/02.jpg",
+        "name": "Lillian Davis",
+        "date": "March 3, 2022"
     },
     {
         "id": 2,
-        "banner": "https://george-fx.github.io/nuton/banner.png"
+        "photo": "https://george-fx.github.io/users/03.jpg",
+        "name": "Adam Thompson",
+        "date": "March 28, 2022"
     },
     {
         "id": 3,
-        "banner": "https://george-fx.github.io/nuton/banner.png"
+        "photo": "https://george-fx.github.io/users/04.jpg",
+        "name": "Ryan Howard",
+        "date": "February 12, 2022"
     }
   ]
 }
